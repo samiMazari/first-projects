@@ -1,0 +1,21 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.lewela{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.image img{
+    width: 100px;
+    margin: 10px;
+}
+.monkey{
+    display: flex;
+    justify-content: center;
+}
